@@ -1,0 +1,4 @@
+#Fri Jul 03 14:07:23 CST 2020
+base.0=D\:\\Arron\\3\\UNITY10\\AR_UNITY\\2ASIA_UnityAR_17_AR\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
